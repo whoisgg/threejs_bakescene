@@ -115,7 +115,7 @@ gltfLoader.load("portal.glb", (gltf) => {
 
 
 /**
- * Fireflies
+ * Fireflie
  */
 
 // Geometry
